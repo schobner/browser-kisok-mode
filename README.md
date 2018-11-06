@@ -7,7 +7,7 @@ Drag and drop the following link to your Bookmarkbar and use it to open any page
 
 ## GitHub Page
 
-([GitHub Page](https://schobner.github.io/browser-kisok-mode/))
+[GitHub Page](https://schobner.github.io/browser-kisok-mode/)
 
 ## Example
 

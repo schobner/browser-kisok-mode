@@ -7,10 +7,10 @@ Drop the following link to your Bookmarkbar and use it to open any page in new w
 
 ## Example
 
-Chrome browser:
+Chrome default mode:
 ![before](img/preview-1.png "before")
 
-Chrome popup:
+Chrome popup mode:
 ![after](img/preview-2.png "after")
 
 ## GitHub Page

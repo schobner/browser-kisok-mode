@@ -7,11 +7,11 @@ Drop the following link to your Bookmarkbar and use it to open any page in new w
 
 ## Example
 
-before and after:
-![before](img/preview-1.png "before") ![after](img/preview-2.png "after")
+Chrome browser:
+![before](img/preview-1.png "before")
 
-[before]: img/preview-1.png "before"
-![before][logo]
+Chrome popup:
+![after](img/preview-2.png "after")
 
 ## GitHub Page
 

@@ -7,11 +7,8 @@ Drop the following link to your Bookmarkbar and use it to open any page in new w
 
 ## Example
 
-Chrome Browser with clutter
-![before](img/preview-1.png "before")
-
-Chrome popup without clutter
-![after](img/preview-2.png "after")
+before and after:
+![before](img/preview-1.png "before") ![after](img/preview-2.png "after")
 
 ## GitHub Page
 

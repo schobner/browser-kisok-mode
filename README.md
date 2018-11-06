@@ -1,4 +1,4 @@
-# Bookmarklet
+# Open website in kiosk mode
 Bookmarklet to open the current site at your browser in a new window with minimal clutter like chromes kiosk mode.  
 Drop the following link to your Bookmarkbar and use it to open any page in new window:
 

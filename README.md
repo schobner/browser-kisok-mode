@@ -10,6 +10,9 @@ Drop the following link to your Bookmarkbar and use it to open any page in new w
 before and after:
 ![before](img/preview-1.png "before") ![after](img/preview-2.png "after")
 
+[before]: img/preview-1.png "before"
+![before][logo]
+
 ## GitHub Page
 
 ([GitHub Page](https://schobner.github.io/browser-kisok-mode/))

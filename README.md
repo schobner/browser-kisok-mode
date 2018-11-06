@@ -1,4 +1,4 @@
-# Open any website in browser kiosk mode
+# Open with bookmarklet website in browser kiosk mode
 
 The following Link is a Bookmarklet to open the current site at your browser in a new window with minimal clutter like chrome kiosk mode.  
 

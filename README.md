@@ -5,11 +5,13 @@ The following Link is a Bookmarklet to open the current site at your browser in 
 Drop the following link to your Bookmarkbar and use it to open any page in new window:  
 [browser-kiosk-mode](javascript:(function()%7Bwindow.open(window.location.href%2C%20'_blank'%2C%20'toolbar%3D0%2Clocation%3D0%2Cmenubar%3D0')%7D)())
 
-## Vorschau
+## Example
 
-[before](img/preview-1.png)
-[after](img/preview-2.png)
+Chrome Browser with clutter
+![before](img/preview-1.png "before")
 
+Chrome popup without clutter
+![after](img/preview-2.png "after")
 
 ## GitHub Page
 
